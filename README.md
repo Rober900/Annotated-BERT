@@ -1,2 +1,2 @@
 # Annotated-BERT
-Developed an NLP algorithm to adapt micro-stories into an easy-to-read format for cognitively impaired readers. It was done with different NLP techniques through all the process and result analysis.
+This project demonstrates how to pretrain and fine-tune a BERT model using Masked Language Modeling (MLM) and Next Sentence Prediction (NSP) objectives, then adapt it for text classification tasks such as sentiment analysis. The workflow includes data preparation, custom dataset and model classes, training, evaluation, and model saving.
